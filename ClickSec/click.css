@@ -1,0 +1,27 @@
+#counter {
+    text-align: center;
+  }
+  
+  .box {
+    margin: auto;
+    width: 400px;
+    height: 100px;
+    background: lightgray;
+    display: flex;
+    justify-content: center;
+    padding: 40px
+  }
+  
+  #start {
+    width: 130px;
+    height: 35px;
+    display: block;
+  }
+  
+  #buttn {
+    width: 180px;
+    height: 70px;
+    display: none;
+  }
+  
+  
